@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Bobby Bob",
+      "bio": "I am Bobby Bob and I play games."
+    },
+    {
+      "id": 2,
+      "username": "Elylou",
+      "bio": "Some kind of bio."
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "projectId": 1,
+      "description": "Use Vite to create a basic React app"
+    },
+    {
+      "id": 2,
+      "projectId": 1,
+      "description": "Install React Router and setup routes"
+    },
+    {
+      "id": 3,
+      "projectId": 2,
+      "description": "Create a form with 5 input fields"
+    }
+  ],
+  "boardgames": [
+    {
+      "id": 1,
+      "name": "Zombicide"
+    },
+    {
+      "id": 2,
+      "name": "Everdale"
+    },
+    {
+      "id": 3,
+      "name": "Hadrien's Wall"
+    },
+    {
+      "id": 4,
+      "name": "D&D"
+    },
+    {
+      "id": 5,
+      "name": "Deep Sea Adventures"
+    },
+    {
+      "name": "A new game",
+      "id": 6
+    }
+  ]
+}
